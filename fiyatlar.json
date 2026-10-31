@@ -1,0 +1,17 @@
+{
+  "guncellendi": "2026-11-01",
+  "kaynak": "AiPilot fiyat listesi",
+  "not": "Baslangic (tohum) degerleri; gunde bir guncellenir. Sarj: isletmeci TL/kWh KDV dahil. Yakit: il plaka kodu -> TL/L.",
+  "sarj": [
+    {"ad": "ZES", "ac": 9.99, "dc": 12.99, "dcHigh": 16.49, "kontrol": "2026-11-01"},
+    {"ad": "Trugo", "ac": 9.95, "dc": 14.98, "kontrol": "2026-11-01"},
+    {"ad": "Eşarj", "ac": 9.90, "dc": 13.50, "kontrol": "2026-11-01"},
+    {"ad": "Voltrun", "ac": 9.90, "dc": 12.90, "kontrol": "2026-11-01"},
+    {"ad": "Sharz", "ac": 9.99, "dc": 14.99, "kontrol": "2026-11-01"}
+  ],
+  "yakit": {
+    "34": {"benzin": 44.50, "motorin": 45.20},
+    "6":  {"benzin": 44.10, "motorin": 44.90},
+    "35": {"benzin": 44.40, "motorin": 45.10}
+  }
+}
