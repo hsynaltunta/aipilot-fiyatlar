@@ -1,0 +1,36 @@
+name: Fiyatları güncelle
+
+# Her gün 05:00 UTC (08:00 TR) ve istenince elle (Actions sekmesi > Run workflow)
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fiyat-guncelle
+  cancel-in-progress: false
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: fiyatlar.json üret
+        run: python guncelle.py
+      - name: Değişiklik varsa commit et
+        run: |
+          if [ -n "$(git status --porcelain fiyatlar.json)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add fiyatlar.json
+            git commit -m "Fiyatlar güncellendi: $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "Fiyatlarda değişiklik yok."
+          fi
