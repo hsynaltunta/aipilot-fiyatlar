@@ -1,5 +1,5 @@
 {
-  "guncellendi": "2026-11-05",
+  "guncellendi": "2026-11-06",
   "kaynak": "AiPilot fiyat listesi",
   "not": "Otomatik üretildi. Şarj: sarjharitasi.tr güncel şarj ücretleri (işletmeci TL/kWh, KDV dahil). Yakıt: Opet il bazlı pompa fiyatı ortancası (TL/L).",
   "sarj": [
@@ -7,13 +7,13 @@
       "ad": "Solar Şarj",
       "ac": 12.99,
       "dc": 16.49,
-      "kontrol": "04 Kasım 2026 16:00:06"
+      "kontrol": "06 Kasım 2026 01:30:06"
     },
     {
       "ad": "Vale",
       "ac": 11.49,
       "dc": 16.49,
-      "kontrol": "04 Kasım 2026 16:15:06"
+      "kontrol": "06 Kasım 2026 01:45:07"
     },
     {
       "ad": "ZES",
@@ -31,7 +31,7 @@
       "ad": "E4 Şarj",
       "ac": 10.99,
       "dc": 15.99,
-      "kontrol": "04 Kasım 2026 01:30:32"
+      "kontrol": "05 Kasım 2026 11:00:09"
     },
     {
       "ad": "Efish",
@@ -43,7 +43,7 @@
       "ad": "Rönesans Charger",
       "ac": 10.99,
       "dc": 15.99,
-      "kontrol": "04 Kasım 2026 19:30:09"
+      "kontrol": "06 Kasım 2026 05:00:06"
     },
     {
       "ad": "Shell",
@@ -55,13 +55,13 @@
       "ad": "Obisarj",
       "ac": 10.99,
       "dc": 15.95,
-      "kontrol": "03 Kasım 2026 21:15:04"
+      "kontrol": "05 Kasım 2026 06:45:06"
     },
     {
       "ad": "Volti NET",
       "ac": 9.99,
       "dc": 15.7,
-      "kontrol": "04 Kasım 2026 11:00:14"
+      "kontrol": "05 Kasım 2026 20:30:08"
     },
     {
       "ad": "Mithra",
@@ -73,7 +73,7 @@
       "ad": "Carbonage",
       "ac": 10.99,
       "dc": 15.49,
-      "kontrol": "04 Kasım 2026 06:15:08"
+      "kontrol": "05 Kasım 2026 15:45:06"
     },
     {
       "ad": "Otojet",
@@ -85,7 +85,7 @@
       "ad": "Tunçmatik",
       "ac": 10.99,
       "dc": 15.49,
-      "kontrol": "04 Kasım 2026 15:15:07"
+      "kontrol": "06 Kasım 2026 00:45:05"
     },
     {
       "ad": "Q Charge",
@@ -97,31 +97,31 @@
       "ad": "Arsima",
       "ac": 13.99,
       "dc": 14.99,
-      "kontrol": "03 Kasım 2026 22:30:06"
+      "kontrol": "05 Kasım 2026 08:00:05"
     },
     {
       "ad": "ŞarjTak",
       "ac": 10.99,
       "dc": 14.99,
-      "kontrol": "04 Kasım 2026 12:00:07"
+      "kontrol": "05 Kasım 2026 21:30:06"
     },
     {
       "ad": "Fixcharge",
       "ac": 9.98,
       "dc": 14.98,
-      "kontrol": "04 Kasım 2026 08:45:06"
+      "kontrol": "05 Kasım 2026 18:15:06"
     },
     {
       "ad": "Köfteci Yusuf",
       "ac": 9.95,
       "dc": 14.98,
-      "kontrol": "04 Kasım 2026 01:15:04"
+      "kontrol": "05 Kasım 2026 10:45:05"
     },
     {
       "ad": "Pilstop",
       "ac": 9.95,
       "dc": 14.98,
-      "kontrol": "04 Kasım 2026 12:15:03"
+      "kontrol": "05 Kasım 2026 21:45:04"
     },
     {
       "ad": "Teknus",
@@ -133,24 +133,24 @@
       "ad": "Trugo",
       "ac": 9.95,
       "dc": 14.98,
-      "kontrol": "04 Kasım 2026 05:00:05"
+      "kontrol": "05 Kasım 2026 14:30:05"
     },
     {
       "ad": "AOS Technology",
       "ac": 10.9,
       "dc": 14.9,
-      "kontrol": "03 Kasım 2026 23:30:10"
+      "kontrol": "05 Kasım 2026 09:00:22"
     },
     {
       "ad": "D-Charge",
       "ac": 10.9,
       "dc": 14.9,
-      "kontrol": "04 Kasım 2026 01:00:46"
+      "kontrol": "05 Kasım 2026 10:30:06"
     },
     {
       "ad": "EnYakıt",
       "dc": 14.9,
-      "kontrol": "04 Kasım 2026 07:15:06"
+      "kontrol": "05 Kasım 2026 16:45:05"
     },
     {
       "ad": "Eşarj",
@@ -162,7 +162,7 @@
       "ad": "Sunlight",
       "ac": 11.4,
       "dc": 14.88,
-      "kontrol": "04 Kasım 2026 13:45:11"
+      "kontrol": "05 Kasım 2026 23:15:09"
     },
     {
       "ad": "Ekoşarj",
@@ -174,13 +174,13 @@
       "ad": "Pleco",
       "ac": 9.99,
       "dc": 14.49,
-      "kontrol": "04 Kasım 2026 03:15:02"
+      "kontrol": "05 Kasım 2026 12:45:02"
     },
     {
       "ad": "WAT Mobilite",
       "ac": 10.99,
       "dc": 14.49,
-      "kontrol": "04 Kasım 2026 16:30:06"
+      "kontrol": "06 Kasım 2026 02:00:07"
     },
     {
       "ad": "5 Şarj",
@@ -204,7 +204,7 @@
       "ad": "Beefull",
       "ac": 9.9,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 00:00:08"
+      "kontrol": "05 Kasım 2026 09:30:11"
     },
     {
       "ad": "Doğuş Dijital Enerji",
@@ -216,7 +216,7 @@
       "ad": "MKS Şarj",
       "ac": 9.49,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 02:00:07"
+      "kontrol": "05 Kasım 2026 11:30:05"
     },
     {
       "ad": "Otowatt",
@@ -228,31 +228,31 @@
       "ad": "Powerşarj",
       "ac": 11.19,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 03:30:06"
+      "kontrol": "05 Kasım 2026 13:00:06"
     },
     {
       "ad": "Rst ChargePoint",
       "ac": 5.9,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 03:45:03"
+      "kontrol": "05 Kasım 2026 13:15:05"
     },
     {
       "ad": "Şarjon",
       "ac": 10.99,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 14:15:08"
+      "kontrol": "05 Kasım 2026 23:45:06"
     },
     {
       "ad": "Solinved",
       "ac": 9.99,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 19:45:05"
+      "kontrol": "06 Kasım 2026 05:15:04"
     },
     {
       "ad": "Tam Şarj",
       "ac": 10.49,
       "dc": 13.99,
-      "kontrol": "04 Kasım 2026 18:00:05"
+      "kontrol": "06 Kasım 2026 03:30:04"
     },
     {
       "ad": "B-Force",
@@ -264,25 +264,25 @@
       "ad": "Geta Charge",
       "ac": 9.9,
       "dc": 13.9,
-      "kontrol": "04 Kasım 2026 08:30:10"
+      "kontrol": "05 Kasım 2026 18:00:07"
     },
     {
       "ad": "Neva Şarj",
       "ac": 9.9,
       "dc": 13.9,
-      "kontrol": "03 Kasım 2026 21:00:06"
+      "kontrol": "05 Kasım 2026 06:30:05"
     },
     {
       "ad": "Otopriz",
       "ac": 9.9,
       "dc": 13.9,
-      "kontrol": "04 Kasım 2026 02:45:05"
+      "kontrol": "05 Kasım 2026 12:15:04"
     },
     {
       "ad": "Varr",
       "ac": 9.9,
       "dc": 13.9,
-      "kontrol": "04 Kasım 2026 05:45:04"
+      "kontrol": "05 Kasım 2026 15:15:04"
     },
     {
       "ad": "Voltrun",
@@ -300,7 +300,7 @@
       "ad": "Acropol",
       "ac": 11.21,
       "dc": 13.88,
-      "kontrol": "03 Kasım 2026 23:00:10"
+      "kontrol": "05 Kasım 2026 08:30:15"
     },
     {
       "ad": "EVC Charge",
@@ -317,7 +317,7 @@
     {
       "ad": "Gio EV",
       "dc": 13.73,
-      "kontrol": "04 Kasım 2026 17:15:10"
+      "kontrol": "06 Kasım 2026 02:45:08"
     },
     {
       "ad": "TÜVTÜRK",
@@ -335,7 +335,7 @@
       "ad": "Wattreise",
       "ac": 9.99,
       "dc": 13.64,
-      "kontrol": "04 Kasım 2026 11:30:16"
+      "kontrol": "05 Kasım 2026 21:00:39"
     },
     {
       "ad": "E-mod",
@@ -347,25 +347,25 @@
       "ad": "MyPower",
       "ac": 11.5,
       "dc": 13.6,
-      "kontrol": "04 Kasım 2026 12:45:07"
+      "kontrol": "05 Kasım 2026 22:15:05"
     },
     {
       "ad": "OnCharge",
       "ac": 9.99,
       "dc": 13.5,
-      "kontrol": "04 Kasım 2026 13:15:05"
+      "kontrol": "05 Kasım 2026 22:45:04"
     },
     {
       "ad": "RHG",
       "ac": 10.99,
       "dc": 13.5,
-      "kontrol": "04 Kasım 2026 15:45:04"
+      "kontrol": "06 Kasım 2026 01:15:04"
     },
     {
       "ad": "TR Charge",
       "ac": 9.9,
       "dc": 13.5,
-      "kontrol": "04 Kasım 2026 04:45:05"
+      "kontrol": "05 Kasım 2026 14:15:05"
     },
     {
       "ad": "Charging Vehicles CV",
@@ -377,55 +377,55 @@
       "ad": "İ-Şarj",
       "ac": 9.98,
       "dc": 13.49,
-      "kontrol": "04 Kasım 2026 09:45:08"
+      "kontrol": "05 Kasım 2026 19:15:07"
     },
     {
       "ad": "Lumicle",
       "ac": 9.99,
       "dc": 13.49,
-      "kontrol": "03 Kasım 2026 22:00:09"
+      "kontrol": "05 Kasım 2026 07:30:07"
     },
     {
       "ad": "Mercury Şarj",
       "ac": 10.99,
       "dc": 13.49,
-      "kontrol": "04 Kasım 2026 01:45:10"
+      "kontrol": "05 Kasım 2026 11:15:08"
     },
     {
       "ad": "Multiforce",
       "ac": 10.5,
       "dc": 13.49,
-      "kontrol": "04 Kasım 2026 11:45:05"
+      "kontrol": "05 Kasım 2026 21:15:40"
     },
     {
       "ad": "Ovolt",
       "ac": 8.99,
       "dc": 13.49,
-      "kontrol": "04 Kasım 2026 03:00:06"
+      "kontrol": "05 Kasım 2026 12:30:04"
     },
     {
       "ad": "ŞARJLAN",
       "ac": 9.49,
       "dc": 13.49,
-      "kontrol": "04 Kasım 2026 18:30:07"
+      "kontrol": "06 Kasım 2026 04:00:11"
     },
     {
       "ad": "Tora Şarj",
       "ac": 9.99,
       "dc": 13.49,
-      "kontrol": "04 Kasım 2026 12:30:10"
+      "kontrol": "05 Kasım 2026 22:00:06"
     },
     {
       "ad": "Wattarya",
       "ac": 9.95,
       "dc": 13.45,
-      "kontrol": "04 Kasım 2026 10:30:06"
+      "kontrol": "05 Kasım 2026 20:00:06"
     },
     {
       "ad": "Adze",
       "ac": 9.4,
       "dc": 13.4,
-      "kontrol": "03 Kasım 2026 22:45:05"
+      "kontrol": "05 Kasım 2026 08:15:07"
     },
     {
       "ad": "Toger",
@@ -437,13 +437,13 @@
       "ad": "KES Şarj",
       "ac": 11.0,
       "dc": 13.0,
-      "kontrol": "03 Kasım 2026 21:30:07"
+      "kontrol": "05 Kasım 2026 07:00:08"
     },
     {
       "ad": "MyCharge",
       "ac": 9.81,
       "dc": 13.0,
-      "kontrol": "04 Kasım 2026 15:00:10"
+      "kontrol": "06 Kasım 2026 00:30:05"
     },
     {
       "ad": "Tesla",
@@ -454,7 +454,7 @@
       "ad": "Çelikler Enerji",
       "ac": 9.99,
       "dc": 12.99,
-      "kontrol": "04 Kasım 2026 00:45:05"
+      "kontrol": "05 Kasım 2026 10:15:06"
     },
     {
       "ad": "Clixolar",
@@ -466,25 +466,25 @@
       "ad": "Ecojet",
       "ac": 9.99,
       "dc": 12.99,
-      "kontrol": "04 Kasım 2026 06:45:07"
+      "kontrol": "05 Kasım 2026 16:15:07"
     },
     {
       "ad": "Gel Dol",
       "ac": 9.99,
       "dc": 12.99,
-      "kontrol": "04 Kasım 2026 09:30:08"
+      "kontrol": "05 Kasım 2026 19:00:06"
     },
     {
       "ad": "Hızzlan",
       "ac": 9.99,
       "dc": 12.99,
-      "kontrol": "04 Kasım 2026 19:15:03"
+      "kontrol": "06 Kasım 2026 04:45:03"
     },
     {
       "ad": "Onlife",
       "ac": 9.99,
       "dc": 12.99,
-      "kontrol": "04 Kasım 2026 13:30:06"
+      "kontrol": "05 Kasım 2026 23:00:06"
     },
     {
       "ad": "Otoşarj",
@@ -502,31 +502,31 @@
       "ad": "ŞarjStop",
       "ac": 9.99,
       "dc": 12.99,
-      "kontrol": "03 Kasım 2026 21:45:07"
+      "kontrol": "05 Kasım 2026 07:15:07"
     },
     {
       "ad": "Tripy",
       "ac": 9.5,
       "dc": 12.99,
-      "kontrol": "04 Kasım 2026 20:15:05"
+      "kontrol": "06 Kasım 2026 05:45:06"
     },
     {
       "ad": "KRN Enerji",
       "ac": 9.98,
       "dc": 12.98,
-      "kontrol": "04 Kasım 2026 10:17:02"
+      "kontrol": "05 Kasım 2026 19:45:05"
     },
     {
       "ad": "Spectrum",
       "ac": 9.89,
       "dc": 12.96,
-      "kontrol": "04 Kasım 2026 19:00:07"
+      "kontrol": "06 Kasım 2026 04:30:25"
     },
     {
       "ad": "Arcona",
       "ac": 9.9,
       "dc": 12.95,
-      "kontrol": "04 Kasım 2026 00:15:05"
+      "kontrol": "05 Kasım 2026 09:45:07"
     },
     {
       "ad": "Aktif Şarj",
@@ -544,7 +544,7 @@
       "ad": "Meis",
       "ac": 9.5,
       "dc": 12.9,
-      "kontrol": "03 Kasım 2026 22:15:05"
+      "kontrol": "05 Kasım 2026 07:45:04"
     },
     {
       "ad": "PowerPay",
@@ -556,37 +556,37 @@
       "ad": "Şarjed Park",
       "ac": 9.99,
       "dc": 12.9,
-      "kontrol": "04 Kasım 2026 20:00:08"
+      "kontrol": "06 Kasım 2026 05:30:08"
     },
     {
       "ad": "ŞarjPlus",
       "ac": 9.9,
       "dc": 12.9,
-      "kontrol": "04 Kasım 2026 18:15:05"
+      "kontrol": "06 Kasım 2026 03:45:05"
     },
     {
       "ad": "Sepaş",
       "ac": 9.9,
       "dc": 12.9,
-      "kontrol": "04 Kasım 2026 04:15:18"
+      "kontrol": "05 Kasım 2026 13:45:04"
     },
     {
       "ad": "TEDY",
       "ac": 9.9,
       "dc": 12.9,
-      "kontrol": "03 Kasım 2026 20:45:05"
+      "kontrol": "05 Kasım 2026 06:15:05"
     },
     {
       "ad": "U-Şarj",
       "ac": 9.95,
       "dc": 12.9,
-      "kontrol": "04 Kasım 2026 05:30:09"
+      "kontrol": "05 Kasım 2026 15:00:12"
     },
     {
       "ad": "Vilampo",
       "ac": 10.39,
       "dc": 12.89,
-      "kontrol": "04 Kasım 2026 11:15:06"
+      "kontrol": "05 Kasım 2026 20:45:04"
     },
     {
       "ad": "EKA Enerji",
@@ -598,13 +598,13 @@
       "ad": "ŞarjStart",
       "ac": 9.5,
       "dc": 12.75,
-      "kontrol": "04 Kasım 2026 17:00:11"
+      "kontrol": "06 Kasım 2026 02:30:06"
     },
     {
       "ad": "EPSİS",
       "ac": 9.9,
       "dc": 12.5,
-      "kontrol": "04 Kasım 2026 07:45:09"
+      "kontrol": "05 Kasım 2026 17:15:08"
     },
     {
       "ad": "Miggo",
@@ -616,37 +616,37 @@
       "ad": "Minus Energy",
       "ac": 9.2,
       "dc": 12.5,
-      "kontrol": "04 Kasım 2026 02:15:03"
+      "kontrol": "05 Kasım 2026 11:45:04"
     },
     {
       "ad": "Monokon",
       "ac": 9.5,
       "dc": 12.5,
-      "kontrol": "04 Kasım 2026 14:45:05"
+      "kontrol": "06 Kasım 2026 00:15:04"
     },
     {
       "ad": "ŞarjMatik",
       "ac": 9.99,
       "dc": 12.5,
-      "kontrol": "04 Kasım 2026 04:00:14"
+      "kontrol": "05 Kasım 2026 13:30:05"
     },
     {
       "ad": "360° Enerji",
       "ac": 9.49,
       "dc": 12.49,
-      "kontrol": "04 Kasım 2026 17:45:08"
+      "kontrol": "06 Kasım 2026 03:15:12"
     },
     {
       "ad": "Asplus",
       "ac": 9.49,
       "dc": 12.49,
-      "kontrol": "04 Kasım 2026 00:30:05"
+      "kontrol": "05 Kasım 2026 10:00:08"
     },
     {
       "ad": "Autovolt",
       "ac": 9.99,
       "dc": 12.49,
-      "kontrol": "03 Kasım 2026 23:45:13"
+      "kontrol": "05 Kasım 2026 09:15:14"
     },
     {
       "ad": "ECON",
@@ -658,7 +658,7 @@
       "ad": "Fast-Go",
       "ac": 9.49,
       "dc": 12.49,
-      "kontrol": "04 Kasım 2026 08:15:09"
+      "kontrol": "05 Kasım 2026 17:45:07"
     },
     {
       "ad": "Green Şarj",
@@ -670,7 +670,7 @@
       "ad": "Pirim Şarj",
       "ac": 9.49,
       "dc": 12.49,
-      "kontrol": "04 Kasım 2026 14:00:05"
+      "kontrol": "05 Kasım 2026 23:30:06"
     },
     {
       "ad": "Verdepunto",
@@ -682,19 +682,19 @@
       "ad": "Öniz Şarj",
       "ac": 9.28,
       "dc": 12.48,
-      "kontrol": "04 Kasım 2026 02:30:05"
+      "kontrol": "05 Kasım 2026 12:00:07"
     },
     {
       "ad": "ŞarjPark",
       "ac": 8.45,
       "dc": 12.45,
-      "kontrol": "04 Kasım 2026 18:45:05"
+      "kontrol": "06 Kasım 2026 04:15:07"
     },
     {
       "ad": "Voltgo",
       "ac": 9.5,
       "dc": 12.4,
-      "kontrol": "04 Kasım 2026 10:45:04"
+      "kontrol": "05 Kasım 2026 20:15:05"
     },
     {
       "ad": "Bölgem Mobilite",
@@ -706,43 +706,43 @@
       "ad": "Spark",
       "ac": 8.99,
       "dc": 12.39,
-      "kontrol": "04 Kasım 2026 04:30:07"
+      "kontrol": "05 Kasım 2026 14:00:08"
     },
     {
       "ad": "FZY Energy",
       "ac": 9.9,
       "dc": 12.3,
-      "kontrol": "04 Kasım 2026 08:00:05"
+      "kontrol": "05 Kasım 2026 17:30:03"
     },
     {
       "ad": "Turuncu Şarj",
       "ac": 9.49,
       "dc": 12.0,
-      "kontrol": "04 Kasım 2026 05:15:04"
+      "kontrol": "05 Kasım 2026 14:45:04"
     },
     {
       "ad": "Vizyoneks",
       "ac": 8.0,
       "dc": 12.0,
-      "kontrol": "04 Kasım 2026 06:00:16"
+      "kontrol": "05 Kasım 2026 15:30:16"
     },
     {
       "ad": "Zeplin Enerji",
       "ac": 9.5,
       "dc": 12.0,
-      "kontrol": "04 Kasım 2026 06:30:05"
+      "kontrol": "05 Kasım 2026 16:00:05"
     },
     {
       "ad": "e-POwer",
       "ac": 8.99,
       "dc": 11.99,
-      "kontrol": "03 Kasım 2026 20:30:05"
+      "kontrol": "05 Kasım 2026 06:00:06"
     },
     {
       "ad": "GSM Charge",
       "ac": 9.99,
       "dc": 11.99,
-      "kontrol": "04 Kasım 2026 09:15:05"
+      "kontrol": "05 Kasım 2026 18:45:05"
     },
     {
       "ad": "Sharz.net",
@@ -766,7 +766,7 @@
       "ad": "Bladeco",
       "ac": 9.9,
       "dc": 11.98,
-      "kontrol": "03 Kasım 2026 23:15:05"
+      "kontrol": "05 Kasım 2026 08:45:08"
     },
     {
       "ad": "B-Charge",
@@ -778,19 +778,19 @@
       "ad": "Ecobox",
       "ac": 9.29,
       "dc": 11.9,
-      "kontrol": "04 Kasım 2026 07:00:06"
+      "kontrol": "05 Kasım 2026 16:30:07"
     },
     {
       "ad": "Green Science",
       "ac": 8.9,
       "dc": 11.9,
-      "kontrol": "04 Kasım 2026 09:00:05"
+      "kontrol": "05 Kasım 2026 18:30:05"
     },
     {
       "ad": "MYZ Co Charge",
       "ac": 9.9,
       "dc": 11.9,
-      "kontrol": "04 Kasım 2026 15:30:08"
+      "kontrol": "06 Kasım 2026 01:00:03"
     },
     {
       "ad": "Qopuz Energy",
@@ -820,7 +820,7 @@
       "ad": "Acrobat",
       "ac": 9.0,
       "dc": 11.0,
-      "kontrol": "04 Kasım 2026 13:00:06"
+      "kontrol": "05 Kasım 2026 22:30:06"
     },
     {
       "ad": "Electrise",
@@ -838,7 +838,7 @@
       "ad": "3a Şarj",
       "ac": 7.95,
       "dc": 10.95,
-      "kontrol": "04 Kasım 2026 16:45:05"
+      "kontrol": "06 Kasım 2026 02:15:05"
     },
     {
       "ad": "ERC Charge",
@@ -856,19 +856,19 @@
       "ad": "CNS Solar Şarj",
       "ac": 9.15,
       "dc": 10.0,
-      "kontrol": "04 Kasım 2026 17:30:07"
+      "kontrol": "06 Kasım 2026 03:00:04"
     },
     {
       "ad": "Elaris",
       "ac": 9.49,
       "dc": 10.0,
-      "kontrol": "04 Kasım 2026 07:30:06"
+      "kontrol": "05 Kasım 2026 17:00:05"
     },
     {
       "ad": "Swapp",
       "ac": 8.0,
       "dc": 10.0,
-      "kontrol": "04 Kasım 2026 14:30:05"
+      "kontrol": "06 Kasım 2026 00:00:05"
     },
     {
       "ad": "Magicline",
@@ -886,7 +886,7 @@
       "ad": "G-Charge",
       "ac": 7.8,
       "dc": 9.8,
-      "kontrol": "04 Kasım 2026 10:00:05"
+      "kontrol": "05 Kasım 2026 19:30:07"
     },
     {
       "ad": "CheckPoint",
@@ -907,5 +907,330 @@
       "kontrol": "08 Ekim 2026 12:36:35"
     }
   ],
-  "yakit": {}
+  "yakit": {
+    "1": {
+      "benzin": 76.36,
+      "motorin": 102.43
+    },
+    "2": {
+      "benzin": 76.71,
+      "motorin": 102.81
+    },
+    "3": {
+      "benzin": 76.64,
+      "motorin": 102.86
+    },
+    "4": {
+      "benzin": 77.09,
+      "motorin": 103.19
+    },
+    "5": {
+      "benzin": 76.13,
+      "motorin": 102.18
+    },
+    "6": {
+      "benzin": 75.53,
+      "motorin": 101.61
+    },
+    "7": {
+      "benzin": 76.79,
+      "motorin": 102.93
+    },
+    "8": {
+      "benzin": 76.43,
+      "motorin": 102.52
+    },
+    "9": {
+      "benzin": 76.03,
+      "motorin": 102.15
+    },
+    "10": {
+      "benzin": 76.12,
+      "motorin": 102.23
+    },
+    "11": {
+      "benzin": 75.5,
+      "motorin": 101.36
+    },
+    "12": {
+      "benzin": 77.09,
+      "motorin": 103.27
+    },
+    "13": {
+      "benzin": 77.15,
+      "motorin": 103.36
+    },
+    "14": {
+      "benzin": 75.62,
+      "motorin": 101.47
+    },
+    "15": {
+      "benzin": 76.58,
+      "motorin": 102.75
+    },
+    "16": {
+      "benzin": 75.61,
+      "motorin": 101.49
+    },
+    "17": {
+      "benzin": 76.18,
+      "motorin": 102.28
+    },
+    "18": {
+      "benzin": 75.94,
+      "motorin": 102.02
+    },
+    "19": {
+      "benzin": 76.13,
+      "motorin": 102.18
+    },
+    "20": {
+      "benzin": 76.29,
+      "motorin": 102.43
+    },
+    "21": {
+      "benzin": 77.0,
+      "motorin": 103.19
+    },
+    "22": {
+      "benzin": 75.66,
+      "motorin": 101.76
+    },
+    "23": {
+      "benzin": 77.18,
+      "motorin": 103.33
+    },
+    "24": {
+      "benzin": 76.54,
+      "motorin": 102.64
+    },
+    "25": {
+      "benzin": 76.59,
+      "motorin": 102.71
+    },
+    "26": {
+      "benzin": 75.81,
+      "motorin": 101.69
+    },
+    "27": {
+      "benzin": 76.51,
+      "motorin": 102.57
+    },
+    "28": {
+      "benzin": 76.33,
+      "motorin": 102.45
+    },
+    "29": {
+      "benzin": 76.3,
+      "motorin": 102.39
+    },
+    "30": {
+      "benzin": 77.2,
+      "motorin": 103.38
+    },
+    "31": {
+      "benzin": 76.26,
+      "motorin": 102.35
+    },
+    "32": {
+      "benzin": 76.64,
+      "motorin": 102.83
+    },
+    "33": {
+      "benzin": 76.36,
+      "motorin": 102.43
+    },
+    "34": {
+      "benzin": 74.37,
+      "motorin": 100.41
+    },
+    "35": {
+      "benzin": 75.81,
+      "motorin": 101.91
+    },
+    "36": {
+      "benzin": 76.6,
+      "motorin": 102.7
+    },
+    "37": {
+      "benzin": 76.23,
+      "motorin": 102.28
+    },
+    "38": {
+      "benzin": 76.53,
+      "motorin": 102.61
+    },
+    "39": {
+      "benzin": 75.64,
+      "motorin": 101.73
+    },
+    "40": {
+      "benzin": 75.87,
+      "motorin": 101.96
+    },
+    "41": {
+      "benzin": 74.98,
+      "motorin": 100.86
+    },
+    "42": {
+      "benzin": 76.55,
+      "motorin": 102.77
+    },
+    "43": {
+      "benzin": 76.49,
+      "motorin": 102.37
+    },
+    "44": {
+      "benzin": 76.7,
+      "motorin": 102.8
+    },
+    "45": {
+      "benzin": 75.89,
+      "motorin": 101.98
+    },
+    "46": {
+      "benzin": 76.49,
+      "motorin": 102.6
+    },
+    "47": {
+      "benzin": 77.01,
+      "motorin": 103.19
+    },
+    "48": {
+      "benzin": 76.3,
+      "motorin": 102.43
+    },
+    "49": {
+      "benzin": 77.14,
+      "motorin": 103.32
+    },
+    "50": {
+      "benzin": 76.43,
+      "motorin": 102.52
+    },
+    "51": {
+      "benzin": 76.36,
+      "motorin": 102.43
+    },
+    "52": {
+      "benzin": 76.14,
+      "motorin": 102.18
+    },
+    "53": {
+      "benzin": 76.29,
+      "motorin": 102.38
+    },
+    "54": {
+      "benzin": 75.29,
+      "motorin": 101.15
+    },
+    "55": {
+      "benzin": 76.12,
+      "motorin": 102.18
+    },
+    "56": {
+      "benzin": 77.05,
+      "motorin": 103.23
+    },
+    "57": {
+      "benzin": 76.18,
+      "motorin": 102.24
+    },
+    "58": {
+      "benzin": 76.54,
+      "motorin": 102.6
+    },
+    "59": {
+      "benzin": 75.25,
+      "motorin": 101.34
+    },
+    "60": {
+      "benzin": 76.18,
+      "motorin": 102.24
+    },
+    "61": {
+      "benzin": 76.27,
+      "motorin": 102.36
+    },
+    "62": {
+      "benzin": 77.12,
+      "motorin": 103.27
+    },
+    "63": {
+      "benzin": 76.69,
+      "motorin": 102.77
+    },
+    "64": {
+      "benzin": 76.3,
+      "motorin": 102.4
+    },
+    "65": {
+      "benzin": 77.11,
+      "motorin": 103.23
+    },
+    "66": {
+      "benzin": 76.22,
+      "motorin": 102.3
+    },
+    "67": {
+      "benzin": 75.8,
+      "motorin": 101.68
+    },
+    "68": {
+      "benzin": 76.44,
+      "motorin": 102.51
+    },
+    "69": {
+      "benzin": 76.3,
+      "motorin": 102.4
+    },
+    "70": {
+      "benzin": 76.41,
+      "motorin": 102.5
+    },
+    "71": {
+      "benzin": 75.83,
+      "motorin": 101.92
+    },
+    "72": {
+      "benzin": 77.0,
+      "motorin": 103.19
+    },
+    "73": {
+      "benzin": 77.12,
+      "motorin": 103.31
+    },
+    "74": {
+      "benzin": 75.85,
+      "motorin": 101.75
+    },
+    "75": {
+      "benzin": 76.6,
+      "motorin": 102.71
+    },
+    "76": {
+      "benzin": 77.07,
+      "motorin": 103.16
+    },
+    "77": {
+      "benzin": 75.25,
+      "motorin": 101.13
+    },
+    "78": {
+      "benzin": 75.86,
+      "motorin": 101.74
+    },
+    "79": {
+      "benzin": 76.23,
+      "motorin": 102.34
+    },
+    "80": {
+      "benzin": 76.24,
+      "motorin": 102.34
+    },
+    "81": {
+      "benzin": 75.45,
+      "motorin": 101.32
+    }
+  }
 }
